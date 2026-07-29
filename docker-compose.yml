@@ -8,8 +8,8 @@
       environment:
         USER_HOST: 10.0.8.58
         PROFILE_HOST: 10.0.3.159
-        PRODUCT_HOST: 10.0.13.238
-        CART_HOST: localhost
+        PRODUCT_HOST: localhost
+        CART_HOST: 10.0.13.238
         ORDER_HOST: localhost
         PAYMENT_HOST: localhost
       restart: unless-stopped
